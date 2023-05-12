@@ -85,4 +85,24 @@ a {
     width: 200px;
   }
  
+  .quote-container {
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
 
+  p.quote-text{
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    text-align: left;
+  }
+
+  p.quote-author {
+    text-align: right;
+  }
+
+  p.quote-author {
+
+  }
