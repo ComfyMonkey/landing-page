@@ -53,9 +53,9 @@ a {
     width: auto;
   }
 
-  .button1 button{
+  .button1 button {
     background-color: #3882F6;
-    color: white;
+    color: #F9FAF8;
     border-radius: 10px;
     font-weight: bold;
     padding: 5px 15px;
@@ -103,6 +103,33 @@ a {
     text-align: right;
   }
 
-  p.quote-author {
 
+  .cta-container {
+    margin: 50px 500px;
+    padding: 0px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #3882F6;
+    color: #F9FAF8;
+    border-radius: 10px;
   }
+
+  .button2 button {
+    color: #F9FAF8;
+    background: none;
+    
+    font-weight: bold;
+    padding: 5px 15px;
+    border-radius: 10px;
+    border-color: #F9FAF8;    
+    outline: none;
+    box-shadow: none;
+  }
+
+  .footer {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    text-align: center;
+  }
+ 
